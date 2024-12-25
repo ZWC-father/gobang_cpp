@@ -23,7 +23,8 @@
 6.本项目所需的`imgui`和`stb_image`已经包含在源文件中\
 7.本项目使用cmake构建，请根据你的环境自行修改`CMakeLists`\
 8.本项目所需的图片和字体文件在`assets/`下，请在编译出的二进制文件所在目录下创建`resources`文件夹，放入其中\
-9.`bin/`中有编译好的二进制和`work directory`的结构示例
+9.`bin/`中有编译好的二进制和`work directory`的结构示例\
+10.`test/`中有pve算法的demo：`main_pve_full_ver*.cpp`，可以自行编译使用（建议使用O3优化，使用C++20标准）（目前ver2效率最高，ver3有复合模型匹配，但是默认未启用，因为参数没调好，ver1使用hash匹配，效率较低）
 
 ### 后期开发计划
 - 对代码进行去《shi山》化，去除其中为了完成作业而意义不大的部分，把UI部分换为Python实现

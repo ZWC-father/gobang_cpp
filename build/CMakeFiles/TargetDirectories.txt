@@ -1,0 +1,3 @@
+/home/xhyh/Desktop/development/qt_game/gobang_cpp_dev/build/CMakeFiles/gobang_cpp.dir
+/home/xhyh/Desktop/development/qt_game/gobang_cpp_dev/build/CMakeFiles/edit_cache.dir
+/home/xhyh/Desktop/development/qt_game/gobang_cpp_dev/build/CMakeFiles/rebuild_cache.dir

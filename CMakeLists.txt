@@ -42,11 +42,11 @@ target_link_libraries(gobang_cpp
     PRIVATE
         SQLite::SQLite3
         OpenSSL::Crypto
-	OpenGL::GL
-	Threads::Threads
-	nfd
-	SDL3
-	${GTK3_LIBRARIES}
+	    OpenGL::GL
+	    Threads::Threads
+	    nfd
+	    SDL3
+	    ${GTK3_LIBRARIES}
 )
 
 #set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)

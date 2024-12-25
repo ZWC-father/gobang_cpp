@@ -31,3 +31,14 @@
 - **重点**： 对PVE部分的算法进行大幅度优化，加入启发式搜索/迭代加深/算杀/各种其他剪枝/多线程搜索
 - 或许后面学了AI，可以用神经网络跑一个？
 
+### 效果图
+- 主窗口\
+![](assets/images/main_window.png)
+- PVP设置页（PVE设置页略）\
+![](assets/images/pvp_setting.png)
+- PVP棋盘\
+![](assets/images/pvp_window.png)
+- PVE后手打赢比较有名的一个[Gobang-AI](https://github.com/lihongxun945/gobang)的最低难度（使用迭代加深2～10层搜索）(我借用了他的棋盘图片)\
+![](assets/images/pve_win.png)
+- Replay模式选择回放文件\
+![](assets/images/replay_select.png)
